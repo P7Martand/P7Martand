@@ -4,8 +4,8 @@ I am a SDET at [`Prophecy`](https://www.prophecy.io/), where I test and break th
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakharMartand&show_icons=true&theme=highcontrast" width="400"!important>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrakharMartand&theme=dark&hide_border=true" width="430">
+  <img src="https://github-readme-stats.vercel.app/api?username=P7Martand&show_icons=true&theme=highcontrast" width="400"!important>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=P7Martand&theme=dark&hide_border=true" width="430">
 </p>
 
 ---
