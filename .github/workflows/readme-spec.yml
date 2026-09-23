@@ -43,4 +43,5 @@ jobs:
           git add README.md assets data docs/data.js
           git diff --cached --quiet && exit 0
           git commit -m "readme.spec: refresh GitHub stats"
+          git pull origin main
           git push
