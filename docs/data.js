@@ -256,7 +256,7 @@ window.PROFILE = {
     "contributions": 26,
     "hiddenPrivate": 6,
     "longestStreak": 3,
-    "currentStreak": 3,
+    "currentStreak": 0,
     "repos": 8,
     "stars": 0,
     "followers": 1,
